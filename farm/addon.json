@@ -1,0 +1,6 @@
+{
+	"title": "Farm",
+	"type": "entity",
+	"tags": ["fun", "roleplay"],
+	"ignore": ["*.md"]
+}
